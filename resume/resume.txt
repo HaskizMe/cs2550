@@ -1,0 +1,46 @@
+BAILEY HASKELL
+SKILLS
+EDUCATION
+EXPERIENCE
+PROJECTS
+PHONE: 903.990.0094
+EMAIL: Haskellb2017@gmail.com
+LINKEDIN: https://www.linkedin.com/
+in/bailey-haskell-3b8a46149
+BLACK JACK GAME & DESSERT SHOP
+QA SOFTWARE INTERN, 2022 — 2023
+MICROFOCUS | PROVO, UT
+• Conformed concrete classes to abstract classes
+given by professor
+• Implemented inheritance to separate common
+functionality into base classes
+• Created and implemented interfaces to guarantee
+specific structure in classes
+• Created Unit tests for files
+• Assisted in setting up multiple servers for testing
+for the Brazilian government
+• Setting up different testing environments using
+virtualization on multiple operating systems such
+as Linux, Windows, and OES
+• Communicating errors and defects found within
+product groupwise to developers and suggesting
+different fixes including changing of code,
+updating client, troubleshooting, etc.
+• HTML/CSS/JavaScript
+• Java
+• SQL
+• C++
+• Python
+• Windows and Linux
+operating systems
+• GitHub
+• Bilingual (Spanish,
+English)
+• Ensign College, 2022:
+Associates degree
+• Utah Valley University,
+2023: pursuing
+bachelors degree in
+Computer Science;
+expected graduation in
+2025
