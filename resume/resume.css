@@ -9,7 +9,7 @@ body {
     height: 100vh;
 }
 .column {
-    width: 60%;
+    width: 55%;
     height: auto;
     background-color: #ddd;
     display: grid;
